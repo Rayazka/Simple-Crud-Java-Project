@@ -1,0 +1,5 @@
+rayazka_2020_1,2020,rayazka,gramedia,deep focus
+rayazka_2020_2,2020,rayazka,gramedia,extrovert
+rayazka_2020_3,2020,rayazka,gramedia,introvert
+rayazka_2020_4,2020,rayazka,gramedia,ambivert
+rayazka_2021_1,2021,rayazka,gramedia,mencegah overthinking
